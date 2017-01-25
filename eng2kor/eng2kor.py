@@ -11,7 +11,8 @@ KOR_ENG_TABLE = dict(zip(KORS, ENGS))
 
 
 def eng2kor(text):
-    pass
+    for i in len(text):
+
 
 
 def kor2eng(text):
